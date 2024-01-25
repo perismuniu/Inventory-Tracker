@@ -10,11 +10,12 @@ body {
 
 .container {
     border: 5px solid black;
+    border-radius: 10px;
     margin: 100px;
     background-color: lightgray;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+    width: 300px;
 }
 
 h1 {
