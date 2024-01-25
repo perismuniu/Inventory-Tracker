@@ -25,22 +25,19 @@ h1 {
 h2 {
     font-size: 50px;
     margin-top: 0;
-    margin: 20px;
-    
+    margin: 20px;   
 }
 
-
-
 button {
-    border: 3px solid black; ;
+    border: 3px solid black;
+    border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 300px;
     margin-bottom: 5px;
     border-radius: 5px;
-    justify-content: space-a
 }
 
 #increment-btn {
